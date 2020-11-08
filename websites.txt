@@ -1,0 +1,4 @@
+https://loremipsum.io/    : Random text as placeholder.
+https://fonts.google.com/ : For using fonts from google by placing embedded code in head.
+https://www.flaticon.com  : For vector icons.
+https://giphy.com/        : For placing gifs in the site by copying the embedded code.
