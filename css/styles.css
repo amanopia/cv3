@@ -133,6 +133,19 @@ hr {
   font-family: 'Montserrat-bold', sans-serif;
 }
 
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1c20;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f4abc4;
+}
+
 #test {
   position: relative;
   margin: 40px auto 30px auto;
